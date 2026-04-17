@@ -1,6 +1,6 @@
 # 🎯 JavaScript Pivot Table Integration with Blazor Web Application
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-SEE%20LICENSE-blue.svg)](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf)
 [![.NET](https://img.shields.io/badge/.NET-7.0-512BD4.svg)](https://dotnet.microsoft.com/)
 [![Blazor](https://img.shields.io/badge/Blazor-Server--side-purple.svg)](https://blazor.net/)
 [![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)](#)
