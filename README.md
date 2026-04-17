@@ -264,5 +264,3 @@ This project is licensed under the **Syncfusion Community License**. See [Syncfu
 - 💬 **Discussions**: GitHub Discussions for Q&A
 - 📖 **Documentation**: See repository Wiki for advanced topics
 - 🌐 **Community**: Join Blazor community forums and Stack Overflow
-
----
